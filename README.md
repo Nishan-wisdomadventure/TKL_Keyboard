@@ -5,7 +5,7 @@ Hello everyone, this project is a fully custom built TKL keyboard. Soul purpose 
 ## PCB
 For any electronics project, pcb is the very first thing to design, since it is the brain of the project. I used easyeda for designing my pcb. There are quite a few limitations with easyeda, but I somehow got things to work. It's a two layer pcb containing necessery things for the project. Main things would be microcontroller, switch, display, etc etc.
 
-![PCB_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/PCB_image.png)
+[PCB_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/PCB_image.png)
 
 
 ## CAD
