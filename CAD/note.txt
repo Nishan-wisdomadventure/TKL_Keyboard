@@ -1,0 +1,6 @@
+Hello, I have a very low spec laptop and my laptop doesn't seem to be happy with heavy load.
+I tried to place all the electronics 3d models in the project but only some switch instances
+would make onshape crash everytime I open it. So please kindly consider the matter and overlook 
+my cad not having the electronics present!
+
+[I have a video showing how hard the situation was. I can show that if needed]
