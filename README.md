@@ -44,3 +44,5 @@ The firmware is mostly ai written, I just have instructed the ai tool what to do
 |                              |        |          |             |Total(USD)|137.5088  |                                                                                                                                           |
 
 Please note that the website called roboticsbd.com does not accept card payment. They accept a Bangladeshi mobile financial service provider called "Bkash". I don't know if it's possible to pay from the grant card through bkash or not. If not, the total costing may vary(most likely increase) provided that I have to order from aliexpress!
+
+Also, I happened to see that keyboards are tier 3. But I couldn't make mine fit in budget. I tried to choose the cheapest buy link for everything. I need tier 2 to make the project real. If that's not possible, I'll have to reduce functionality to fit in. It'll be sad for me though :(
