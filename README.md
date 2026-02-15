@@ -20,7 +20,7 @@ The display will be hand wired to the pogo pins like below!
 
 ## Firmware
 The firmware is mostly ai written, I just have instructed the ai tool what to do with each component and I got the firmware. It's still not tested and only a proof of concept though. I'll update the readme when I get an actual working firmware!
-[Firmware]()
+[Click to view firmware](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Firmware/code.py)
 
 ## BOM
 
@@ -32,7 +32,7 @@ The firmware is mostly ai written, I just have instructed the ai tool what to do
 |1N4148 Diode                  |90      |270       |             |270       |2.214     |https://store.roboticsbd.com/components/1355-1n4148-diode-robotics-bangladesh.html                                                         |
 |Pogo pin set                  |1       |220       |             |220       |1.804     |https://store.roboticsbd.com/connector/3147-4-pin-2a-dc-magnetic-pogo-pin-connector-254mm-spacing-robotics-bangladesh.html                 |
 |DisPLAY-OLED-2.42”            |1       |1690      |             |1690      |13.858    |https://store.roboticsbd.com/arduino-shield/2922-242-inch-oled-screen-lcd-display-module-128x64-iic-i2c-4pin-white-robotics-bangladesh.html|
-|Deliver charge for above parts|-       |          |119          |119       |0.9758    |                                                                                                                                           |
+|Delivery charge for above parts|-       |          |119          |119       |0.9758    |                                                                                                                                           |
 |Akko Dracula switches         |(45+45) |3300      |             |3300      |27.06     |https://vibegaming.com.bd/product/akko-dracula-switch-lubed-45-pcs/                                                                        |
 |SK6812MINI-E                  |100     |880       |             |880       |7.216     |https://www.aliexpress.com/item/1005006463785578.html                                                                                      |
 |Kailh hot swap sockets        |100     |818       |389          |1207      |9.8974    |https://www.aliexpress.com/item/1005009594313632.html                                                                                      |
