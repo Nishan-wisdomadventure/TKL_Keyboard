@@ -4,13 +4,15 @@ Hello everyone, this project is a fully custom built TKL keyboard. Soul purpose 
 # Project overview
 ## PCB
 For any electronics project, pcb is the very first thing to design, since it is the brain of the project. I used easyeda for designing my pcb. There are quite a few limitations with easyeda, but I somehow got things to work. It's a two layer pcb containing necessery things for the project. Main things would be microcontroller, switch, display, etc etc.
-
+![PCB_SCHEMATIC_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/PCB_SCHEMATIC_image.png)
 ![PCB_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/PCB_image2.png)
 
 
 ## CAD
 What I did after designing the pcb was building a case around it. The case looks simple, but there went a lot of research behind it.
 ![CAD_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/CAD_image.png)
+
+**I don't have the switches and other electronics placed because my laptop couldn't handle that much! I have left a note in the cad folder**
 
 There is a magnetic wrist rest extension to the main case. The wrist rest also has an oled screen in the center. This oled screen will be connected to the pcb via a pogo pin. I'll demonstrate the thing below.
 ![POGO_IMAGE](https://github.com/Nishan-wisdomadventure/TKL_Keyboard/blob/main/Images/POGO_image.png)
