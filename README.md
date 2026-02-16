@@ -46,3 +46,5 @@ The firmware is mostly ai written, I just have instructed the ai tool what to do
 |                              |        |          |             |Total(USD)|137.5088  |                                                                                                                                           |
 
 Also, I happened to see that keyboards are tier 3. But I couldn't make mine fit in budget. I tried to choose the cheapest buy link for everything. I need tier 2 to make the project real. If that's not possible, I'll have to reduce functionality to fit in. It'll be sad for me though :(
+
+**NOTE: While submitting the project, I totally forgot about the keycaps and usb cable. So, they are not mentioned in the bom. Right now I can't even find some good keycaps under a low budget. It'll take some time. I'll probably need more 20-30$ for the keycaps. May be cheaper. I'm not sure. If the budget allowance is in your hands, please consider**
